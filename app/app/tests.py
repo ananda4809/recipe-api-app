@@ -5,6 +5,7 @@ Sample tests
 from django.test import SimpleTestCase
 from app import calc
 
+
 class CalsTests(SimpleTestCase):
     """Test the cal module"""
 
